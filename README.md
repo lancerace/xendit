@@ -1,6 +1,11 @@
 src/client folder = frontend
 top level parent folder = backend
 
+Cloud: 
+Backend API URL ENDPOINT: https://xenditproduct.herokuapp.com
+Frontend hosted cloud - firebase: https://xendit-4cf71.web.app
+
+e.g https://xendit-4cf71.web.app/products
 
 
 
